@@ -17,13 +17,12 @@ end
 target 'DemoTests' do
 
 # Dependencies
-pod 'RxSwift', '~> 2.1'
-pod 'RxCocoa', '~> 2.1'
-pod 'RxBlocking', '~> 2.1'
+pod 'RxSwift', '~> 2.2'
+pod 'RxCocoa', '~> 2.2'
+pod 'RxBlocking', '~> 2.2'
 
 # Testing libraries
 pod 'Quick'
 pod 'Nimble'
 
 end
-
